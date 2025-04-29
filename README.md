@@ -1,2 +1,2 @@
 # javascript
- projetos em js
+ projetos em javascript
