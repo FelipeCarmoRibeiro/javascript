@@ -1,2 +1,2 @@
 # javascript
- course of javascript
+ projetos em js
